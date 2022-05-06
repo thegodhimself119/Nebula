@@ -1,6 +1,6 @@
 public class MyProgram extends ConsoleProgram
 {
-    public void run()
+    public static void main (String [] args)
     {
         Grid g = new Grid();
         
